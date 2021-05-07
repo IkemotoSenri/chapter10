@@ -72,19 +72,20 @@ footer {
   main{
     width: 100%;
     display: block;
-    margin-left: 45px;
   }
-
-  
 
   .step-box{
     width: 90%;
-    margin-bottom: 20px;
+    margin: 20px 5%;
   }
 
-  .text{
-    width: 100%;
+  .title{
+    font-size: 25px;
+  }
 
+
+  .text{
+    font-size: 22px;
   }
 
   .step-img1{
@@ -101,5 +102,3 @@ footer {
     width: 100%;
     padding: 150px;
   }
-
-}
